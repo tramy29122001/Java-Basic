@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buoi2/Buoi2.iml" filepath="$PROJECT_DIR$/Buoi2/Buoi2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Basic.iml" filepath="$PROJECT_DIR$/.idea/Java Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
