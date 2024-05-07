@@ -10,7 +10,8 @@ public class Bai4_5 {
         a = sc.nextInt();
         System.out.print("Nhap so thu hai: ");
         b = sc.nextInt();
-        int c = Math.min(a,b);
+        //int c = Math.min(a,b);
+        int c=a<b?a:b;
         System.out.println("So nho nhat la: "+c);
     }
 }
